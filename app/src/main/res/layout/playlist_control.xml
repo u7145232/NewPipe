@@ -11,7 +11,7 @@
         android:layout_width="match_parent"
         android:layout_height="@dimen/playlist_ctrl_height"
         android:layout_weight="1"
-        android:background="?attr/selectableItemBackground"
+        android:background="@drawable/highlight_effect"
         android:clickable="true"
         android:focusable="true"
         android:gravity="center">
@@ -40,7 +40,7 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_weight="1"
-        android:background="?attr/selectableItemBackground"
+        android:background="@drawable/highlight_effect"
         android:clickable="true"
         android:focusable="true"
         android:gravity="center">
@@ -67,7 +67,7 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_weight="1"
-        android:background="?attr/selectableItemBackground"
+        android:background="@drawable/highlight_effect"
         android:clickable="true"
         android:focusable="true"
         android:gravity="center">

@@ -339,6 +339,7 @@ public class DownloadDialog extends DialogFragment
             }
             return false;
         });
+
     }
 
     @Override

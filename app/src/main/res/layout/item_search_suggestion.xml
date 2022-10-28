@@ -15,7 +15,7 @@
         android:layout_centerVertical="true"
         android:layout_toStartOf="@id/suggestion_insert"
         android:layout_toLeftOf="@id/suggestion_insert"
-        android:background="?attr/selectableItemBackground"
+        android:background="@drawable/highlight_effect"
         android:clickable="true"
         android:focusable="true"
         android:paddingTop="8dp"

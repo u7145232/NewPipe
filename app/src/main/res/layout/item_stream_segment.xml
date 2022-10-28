@@ -7,7 +7,7 @@
     android:background="?attr/selector"
     android:clickable="true"
     android:focusable="true"
-    android:foreground="?attr/selectableItemBackground"
+    android:foreground="@drawable/highlight_effect"
     android:paddingStart="16dp"
     android:paddingTop="4dp"
     android:paddingEnd="16dp"

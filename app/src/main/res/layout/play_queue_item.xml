@@ -8,7 +8,7 @@
     android:background="?attr/selector"
     android:clickable="true"
     android:focusable="true"
-    android:foreground="?attr/selectableItemBackground">
+    android:foreground="@drawable/highlight_effect">
 
     <ImageView
         android:id="@+id/itemThumbnailView"
